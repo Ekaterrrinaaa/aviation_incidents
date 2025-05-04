@@ -1,0 +1,13 @@
+{
+    "evidence": {
+        "HF_SkillError": 1,
+        "HF_DecisionError": 1,
+        "HF_PerceptionError": 1,
+        "HF_Violation": 1,
+        "HF_Stress": 1,
+        "HF_Distraction": 0,
+        "HF_KnowledgeSkill": 0,
+        "HF_CRM": 0,
+        "HF_ATC_InstructionError": 0
+    }
+}

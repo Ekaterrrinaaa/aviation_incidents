@@ -1,0 +1,63 @@
+ID	Название
+HF_SkillError	Ошибка навыков пилота
+HF_DecisionError	Ошибка принятия решений пилота
+HF_PerceptionError	Ошибка восприятия пилота
+HF_Violation	Нарушение процедур пилотом (общее)
+HF_Fatigue	Усталость пилота
+HF_Stress	Стресс пилота
+HF_Medical	Медицинские проблемы пилота
+HF_Complacency	Самоуверенность пилота
+HF_Distraction	Невнимательность/Отвлечение пилота
+HF_KnowledgeSkill	Знания/Навыки пилота
+HF_Experience	Опыт пилота (на типе/в условиях)
+HF_Motivation	Мораль/Мотивация пилота
+HF_CRM	Качество CRM
+HF_ATC_CommError	Ошибка связи со стороны УВД
+HF_ATC_InstructionError	Ошибка оценки/указания УВД
+HF_ATC_Separation	Нарушение интервалов УВД
+HF_ATC_InfoLack	Недостаток информации от УВД
+HF_ATC_Workload	Высокая загрузка УВД
+HF_Maint_Quality	Качество ТО/ремонта
+HF_Maint_Pressure	Давление/Спешка при ТО
+HF_Ground_FuelError	Ошибка заправки топливом
+HF_Ground_LoadError	Ошибка загрузки/центровки
+HF_Ground_Damage	Повреждение ВС на земле при обслуживании
+HF_Ground_Deicing	Качество противообледенительной обработки
+HF_Ground_FOD	Риск FOD (Посторонние предметы)
+Tech_SystemFailure	Отказ системы ВС (общий)
+Tech_DesignFlaw	Конструктивный недостаток ВС
+Tech_ManufacturingDefect	Производственный дефект ВС
+Tech_Fire	Пожар на борту
+Env_Icing	Обледенение
+Env_Turbulence	Турбулентность
+Env_WindShear	Сдвиг ветра
+Env_Thunderstorm	Грозовая деятельность
+Env_Visibility	Видимость
+Env_Ceiling	Высота нижней границы облаков (ВНГО)
+Env_SurfaceWind	Ветер у земли
+Env_Temperature	Температура (влияние на характеристики)
+Env_VolcanicAsh	Вулканический пепел
+Env_RunwayCondition	Состояние ВПП
+Env_AirportLights	Светосигнальное оборудование аэродрома
+Env_NavAids	Навигационные средства аэродрома
+Env_Obstacles	Риск препятствий (аэродром/вблизи)
+Env_Terrain	Рельеф местности (сложность)
+Env_TrafficDensity	Интенсивность воздушного движения
+Env_AirspaceComplexity	Сложность структуры ВП / схем
+Env_BirdstrikeRisk	Риск столкновения с птицами
+Org_ProceduresQuality	Качество процедур/РЛЭ
+Org_PlanningScheduling	Планирование/Расписание (влияние на усталость)
+Org_Oversight	Внутренний контроль/Надзор в АК
+Org_SMS_Effectiveness	Эффективность СУБП
+Org_Resources	Достаточность ресурсов (кадры, финансы, время)
+Org_Pressure	Производственное давление
+Org_TrainingQuality	Качество подготовки персонала
+Org_MaintOrganization	Качество организации ТО
+Org_SafetyCulture	Культура безопасности
+Org_RegulatoryOversight	Качество государственного надзора
+Ctx_TaskComplexity	Сложность задачи/полета
+Ctx_Workload	Рабочая нагрузка (пилота/диспетчера)
+Ctx_UnexpectedEvents	Неожиданные события в полете
+Ctx_FlightPhase	Этап полета
+Узел исхода:
+| Outcome_Severity | Серьезность исхода |
